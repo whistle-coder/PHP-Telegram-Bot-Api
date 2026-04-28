@@ -280,3 +280,6 @@ All Telegram Bot API methods are supported. See [Telegram API Documentation](htt
 ## License
 
 MIT
+
+
+See also [https://ubuntubase.com/software/php-telegram-bot-api/](https://ubuntubase.com/software/php-telegram-bot-api/)
