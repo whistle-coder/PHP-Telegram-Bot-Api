@@ -1,0 +1,14 @@
+{
+    "name": "telegram/api",
+    "description": "PHP Telegram Bot API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Telegram\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
